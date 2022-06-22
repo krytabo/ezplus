@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "title": "數位建築學院BIM+ Studio啟用暨MOU簽約典禮",
+    "photo": "./assets/news/news1/news-p0.jpeg",
+    "time": "2019/11/25",
+    "user": "財團法人台灣建築中心",
+    "location": "新北市新店區",
+    "article":
+    "財團法人台灣建築中心(TABC)為落實BIM產業推動與發展，於11/25 正式啟用BIM+ Studio。BIM+ Studio 除了提供良好的場域可進行work shop與教育訓練之外，未來將協助推動BIM產業、物聯網、數位雙生(Digital Twin)、與智慧城市之執行，扮演AEC產業輔導之角色。\n\n透過本次活動，建築中心也分別與「互動國際數位股份有限公司」和「億集創見應用科技股份有限公司」簽署合作備忘錄(MOU)，以建立BIM未來於智慧設施營運管理和地理資訊(GIS)之整合應用趨勢。",
+    "children": [
+      {
+        "id": 1,
+        "photo": "./assets/news/news1/news-p1.jpeg"
+      },
+      {
+        "id": 2,
+        "photo": "./assets/news/news1/news-p2.jpeg"
+      },
+      {
+        "id": 3,
+        "photo": "./assets/news/news1/news-p3.jpeg"
+      },
+      {
+        "id": 4,
+        "photo": "./assets/news/news1/news-p4.jpeg"
+      },
+      {
+        "id": 5,
+        "photo": "./assets/news/news1/news-p5.jpeg"
+      },
+      {
+        "id": 6,
+        "photo": "./assets/news/news1/news-p6.jpeg"
+      }
+    ]
+  }
+]

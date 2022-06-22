@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400px" height="1400px" viewBox="0 0 1400 1400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>siwper8-2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1400" height="1400"></rect>
+        <filter x="-10.7%" y="-12.5%" width="121.5%" height="124.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="CRM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="siwper8-2">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle"></g>
+            <g id="Item-2" filter="url(#filter-3)" mask="url(#mask-2)">
+                <g transform="translate(879.000000, 753.950656)">
+                    <text id="18:00" font-family="PingFangTC-Regular, PingFang TC" font-size="30.726257" font-weight="normal">
+                        <tspan x="110.668075" y="33" fill="#000000">18:00 </tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 2.836230)">
+                        <text id="已讀1" font-family="PingFangTC-Regular, PingFang TC" font-size="27.9329609" font-weight="normal" fill="#00A0F1">
+                            <tspan x="18.6236176" y="30">已讀1</tspan>
+                        </text>
+                        <path d="M7.99271455,25.3927488 L3.04472189,19.5551481 L7.99271455,13.7175474 L7.99271454,13.7175474 C8.48320017,13.1660189 8.50184861,12.249809 8.03436734,11.6711421 C8.0208184,11.6543705 8.00693008,11.6379852 7.99271454,11.6220004 L7.99271456,11.6220005 C7.52523498,11.0433296 6.7486488,11.0213283 6.25816655,11.5728588 C6.24395088,11.5888438 6.23006257,11.6052291 6.21651376,11.6220005 L0.380419859,18.5073757 L0.380419785,18.5073757 C-0.110065846,19.0589043 -0.128714281,19.9751142 0.338766991,20.5537811 C0.352315931,20.5705526 0.366204244,20.5869379 0.380419785,20.6029227 L6.21651369,27.4882979 L6.21651377,27.488298 C6.70204295,28.0728125 7.49727756,28.0822923 7.99271626,27.509466 C8.48815496,26.9366427 8.49619016,25.9984315 8.01065844,25.4139171 C8.00473821,25.4067899 7.99875714,25.3997334 7.99271609,25.3927488 L7.99271455,25.3927488 Z" id="Path" fill="#00A0F1" fill-rule="nonzero"></path>
+                    </g>
+                    <g id="Padding-Group-4" stroke-width="1" fill-rule="evenodd" transform="translate(80.476806, 66.380820)">
+                        <rect id="Background" fill="#B3D9FF" x="0" y="0" width="97" height="94" rx="13.9664804"></rect>
+                        <text id="OK" font-family="PingFangTC-Regular, PingFang TC" font-size="39.1061453" font-weight="normal" fill="#000000">
+                            <tspan x="20.0223464" y="61">OK</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4,
+    "title": "世界華人不動產學會暨亞洲不動產學會2017聯合年會",
+    "photo": "./assets/news/news5/news-p0.jpeg",
+    "time": "2017.07.09~2017.07.12",
+    "user": "世界不動產、亞州不動產(學會)",
+    "location": "台中林酒店",
+    "article":
+    "世界華人不動產學會與亞洲不動產學會共同舉辦的2017聯合年會，在台中林酒店進行了為期4天的論壇研討會，其中也邀請了諾貝爾經濟學獎2013年得主的Robert J. Shiller擔任主講嘉賓，分享房地產市場經濟發展與趨勢。\n\n億集創見科技受到主辦單位委託，負責開發此次大會活動的APP，希望讓參加活動的來賓能隨時透過行動APP掌握活動最新資訊和論壇消息，並透過室內導航的功能，協助來賓前往舉辦演講的空間。\n\n億集創見科技成立於2008年，將BIM 3D模型結合混合實境(Mixed Reality, MR)和空間定位技術導入建築產業，提供前期規劃設計、中期營造施工、後期營運管理各階段作業需求的軟體服務方案。此外，包含台中七期豪宅的社區住戶服務APP、物聯網智慧建築和Beacon ERP雲端考勤也都是該公司軟體服務強項。",
+    "children": [
+      {
+        "id": 1,
+        "photo": "./assets/news/news5/news-p1.jpeg"
+      },
+      {
+        "id": 2,
+        "photo": "./assets/news/news5/news-p2.jpeg"
+      },
+      {
+        "id": 3,
+        "photo": "./assets/news/news5/news-p3.jpeg"
+      },
+      {
+        "id": 4,
+        "photo": "./assets/news/news5/news-p4.jpeg"
+      },
+      {
+        "id": 5,
+        "photo": "./assets/news/news5/news-p5.jpeg"
+      },
+      {
+        "id": 6,
+        "photo": "./assets/news/news5/news-p6.jpeg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 5,
+    "title": "2017數位建築BIM智慧城市展",
+    "photo": "./assets/news/news6/news-p0.jpeg",
+    "time": "2017.01.13",
+    "user": "億集創見應用科技",
+    "location": "逢甲大學",
+    "article": "當日特別到場嘉賓：林佳龍",
+    "children": [
+      {
+        "id": 1,
+        "photo": "./assets/news/news6/news-p1.jpeg"
+      },
+      {
+        "id": 2,
+        "photo": "./assets/news/news6/news-p2.jpeg"
+      },
+      {
+        "id": 3,
+        "photo": "./assets/news/news6/news-p3.jpeg"
+      },
+      {
+        "id": 4,
+        "photo": "./assets/news/news6/news-p4.jpeg"
+      },
+      {
+        "id": 5,
+        "photo": "./assets/news/news6/news-p5.jpeg"
+      },
+      {
+        "id": 6,
+        "photo": "./assets/news/news6/news-p6.jpeg"
+      }
+    ]
+  }
+]

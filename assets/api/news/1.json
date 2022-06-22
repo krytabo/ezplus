@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "2019台灣國際人工智慧暨物聯網展",
+    "photo": "./assets/news/news2/news-p0.jpeg",
+    "time": "2019.10.16~2019.10.18",
+    "user": "中華民國對外貿易發展協會",
+    "location": "台北南港展覽館1館",
+    "article":
+    "「智慧城鄉」乃運用各式智慧科技(如物聯網、大數據、人工智慧)，活用新資源(Data)有效滿足融合來自市民、產業與地方到中央政府多元「高度差異化」需求，加速城市與鄉鎮間智慧服務的協作及融合，落實在地實踐與產業創新。\n\n#AIoT應用館 希望透過體驗展示，將 #智慧城鄉計畫 優質案例向海內外參觀團體分享計畫執行成果，更希望藉由此次展示，促進應用方案輸出國際，創造資通訊產業商機。在AIoT 應用館，你可親自體驗與發掘更多用科技寫的日常生活故事。 10/16 在南港展覽館的台灣國際人工智慧暨物聯網展 (AIoT Taiwan)，邀請大家到工業局智慧城鄉AIoT 應用館(K607)，來體驗智慧服務，感受創新好生活。",
+    "children": [
+      {
+        "id": 1,
+        "photo": "./assets/news/news2/news-p1.jpeg"
+      },
+      {
+        "id": 2,
+        "photo": "./assets/news/news2/news-p2.jpeg"
+      },
+      {
+        "id": 3,
+        "photo": "./assets/news/news2/news-p3.jpeg"
+      },
+      {
+        "id": 4,
+        "photo": "./assets/news/news2/news-p4.jpeg"
+      },
+      {
+        "id": 5,
+        "photo": "./assets/news/news2/news-p5.jpeg"
+      },
+      {
+        "id": 6,
+        "photo": "./assets/news/news2/news-p6.jpeg"
+      }
+    ]
+  }
+]
