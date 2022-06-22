@@ -1,7 +1,7 @@
 "use strict";
-(self["webpackChunkvue3_ezplus_official_website"] = self["webpackChunkvue3_ezplus_official_website"] || []).push([[994],{
+(self["webpackChunkvue3_ezplus_official_website"] = self["webpackChunkvue3_ezplus_official_website"] || []).push([[383],{
 
-/***/ 8590:
+/***/ 9383:
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 // ESM COMPAT FLAG
@@ -16,7 +16,7 @@ __webpack_require__.d(__webpack_exports__, {
 var runtime_core_esm_bundler = __webpack_require__(9812);
 // EXTERNAL MODULE: ./node_modules/@vue/shared/dist/shared.esm-bundler.js
 var shared_esm_bundler = __webpack_require__(5893);
-;// CONCATENATED MODULE: ./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/JoinUs.vue?vue&type=template&id=a5bcdd98
+;// CONCATENATED MODULE: ./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/JoinUs.vue?vue&type=template&id=4561547a
 
 const _hoisted_1 = {
   class: "container2 w-full bg-gray-900 bg-opacity-80 pb-2 pt-14"
@@ -42,7 +42,7 @@ const _hoisted_6 = {
 const _hoisted_7 = /*#__PURE__*/(0,runtime_core_esm_bundler/* createElementVNode */._)("div", {
   class: "mb-20 text-center"
 }, [/*#__PURE__*/(0,runtime_core_esm_bundler/* createElementVNode */._)("p", {
-  class: "mb-1.5 text-4xl font-bold text-blue-500"
+  class: "mb-1.5 text-3xl lg:text-4xl font-bold text-blue-500"
 }, "我們擁有健全完善的制度"), /*#__PURE__*/(0,runtime_core_esm_bundler/* createElementVNode */._)("p", {
   class: "text-lg uppercase"
 }, "JOIN US")], -1);
@@ -110,7 +110,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     }), 256))])]);
   }), 128))]), _hoisted_12])]);
 }
-;// CONCATENATED MODULE: ./src/components/JoinUs.vue?vue&type=template&id=a5bcdd98
+;// CONCATENATED MODULE: ./src/components/JoinUs.vue?vue&type=template&id=4561547a
 
 ;// CONCATENATED MODULE: ./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/JoinUs.vue?vue&type=script&lang=js
 /* harmony default export */ var JoinUsvue_type_script_lang_js = ({

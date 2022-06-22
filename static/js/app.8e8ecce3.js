@@ -1505,7 +1505,7 @@ const routes = [{
 }, {
   path: "/join_us",
   name: "join_us",
-  component: () => __webpack_require__.e(/* import() */ 994).then(__webpack_require__.bind(__webpack_require__, 8590))
+  component: () => __webpack_require__.e(/* import() */ 383).then(__webpack_require__.bind(__webpack_require__, 9383))
 }, {
   path: "/contact",
   name: "contact",
@@ -1731,7 +1731,7 @@ module.exports = __webpack_require__.p + "static/img/swiper-2.21ad6d87.png";
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = function(chunkId) {
 /******/ 			// return url for filenames based on template
-/******/ 			return "static/js/" + chunkId + "." + {"133":"baa3f40d","311":"37538449","398":"dd4b5288","473":"706146fe","497":"f6f4b2cd","651":"9af39871","706":"f5d62811","747":"8a73d0bb","788":"c9c85f4e","820":"f401024c","824":"514cf151","853":"7e0e6691","945":"7a121ae3","951":"d9959ef5","954":"516b61a5","957":"63f84249","994":"e0eaac94"}[chunkId] + ".js";
+/******/ 			return "static/js/" + chunkId + "." + {"133":"baa3f40d","311":"37538449","383":"c44c38fb","398":"dd4b5288","473":"706146fe","497":"f6f4b2cd","651":"9af39871","706":"f5d62811","747":"8a73d0bb","788":"c9c85f4e","820":"f401024c","824":"514cf151","853":"7e0e6691","945":"7a121ae3","951":"d9959ef5","954":"516b61a5","957":"63f84249"}[chunkId] + ".js";
 /******/ 		};
 /******/ 	}();
 /******/ 	
